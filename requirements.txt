@@ -2,3 +2,5 @@ requests
 datetime
 sqlite_utils
 flatten-json
+datasette
+datasette-publish-vercel
