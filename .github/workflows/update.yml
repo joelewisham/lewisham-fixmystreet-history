@@ -34,4 +34,5 @@ jobs:
         run: |-
           datasette publish vercel fixmystreet.db --install=datasette-vega \
             --token $NOW_TOKEN \
-            --project lewisham-fixmystreet
+            --project lewisham-fixmystreet-history
+
